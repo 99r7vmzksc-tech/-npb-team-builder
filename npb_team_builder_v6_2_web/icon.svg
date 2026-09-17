@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#07120d"/>
+  <circle cx="256" cy="256" r="165" fill="#f4f7f5"/>
+  <path d="M166 142c57 50 78 121 67 228M346 142c-57 50-78 121-67 228" fill="none" stroke="#d25757" stroke-width="13" stroke-linecap="round" stroke-dasharray="8 18"/>
+  <text x="256" y="292" text-anchor="middle" font-family="Arial, sans-serif" font-weight="900" font-size="88" fill="#07120d">NPB</text>
+</svg>
